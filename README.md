@@ -1,2 +1,2 @@
-# CyberSecurity-OpenEclass
+# Computer Systems Protection & Security
  
